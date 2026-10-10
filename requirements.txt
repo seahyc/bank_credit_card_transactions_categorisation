@@ -3,3 +3,4 @@ pandas
 scikit-learn
 imbalanced-learn
 ocbc_dbs_statement_parser
+opencv-python

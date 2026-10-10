@@ -14,4 +14,4 @@ dist/
 *.egg-info/
 
 # VSCode settings
-.vscode/
+.vscode/.DS_Store
